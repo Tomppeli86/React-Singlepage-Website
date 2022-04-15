@@ -7,7 +7,7 @@ export default function Koti() {
     <div>
       <img src="/kuvat/testikuva3.png" className="bigpic2" />
       <main class="boxtxt">
-      <p class="infotxt">This is our home.</p>
+
           <div class="txtbackround">
             
             <p class="infotxt2">Write here. <br></br> And here comes more text.</p>

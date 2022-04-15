@@ -6,7 +6,7 @@ export default function Yhteys() {
    <div>
      <img src="/kuvat/testikuva3.png" className="bigpic2" />
    <main class="boxtxt">
-   <p class="infotxt">Connect.</p>
+  
    <div class="txtbackround">
    <p class="infotxt2">Connect from here. and here and here and here</p>
 

@@ -10,6 +10,7 @@ export default function App() {
       <div>
 
         <div class="mainsize">
+          
             <nav class="navigation">
               <Link to="/Koti" class="linktxt">Home</Link> {" "}
               <Link to="/Yhteys" class="linktxt2">Connect</Link> {" "}

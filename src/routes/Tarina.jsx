@@ -9,7 +9,7 @@ export default function Tarina() {
         <img src="/kuvat/testikuva3.png" className="bigpic2" />
       <main class="boxtxt">
           
-          <p class="infotxt">Story.</p>
+          
           <div class="txtbackround">
           <p class="infotxt2">Write here. <br></br> And here comes more text.</p>
           <p class="infotxt2">Write more here. asdasd
@@ -19,14 +19,13 @@ export default function Tarina() {
           you will break box this this this this.
           </p>
           </div>
+          
           <div>
-
             <Link to="/Pictures" class="infotxt3">Mr.Person
             </Link>
-
+          
             <Link to="/Pictures2" class="infotxt3">Mrs.Person
             </Link>
-            
           </div>
         
 
