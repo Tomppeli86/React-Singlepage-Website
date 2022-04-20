@@ -33,15 +33,18 @@ export default function App() {
                 <span>
                 <a href="#" class="fa fa-twitter"></a>
         
+                <span>
+                <a href="https://twitter.com/riverialainen" class="fa fa-twitter"></a>
+        
                 </span>
                 <span>
-                <a href="#" class="fa fa-facebook"></a>
+                <a href="https://www.facebook.com/riveria" class="fa fa-facebook"></a>
                 </span>
                 <span>
-                <a href="#" class="fa fa-instagram"></a>
+                <a href="https://www.instagram.com/accounts/login/?next=/riverialainen/" class="fa fa-instagram"></a>
                 </span>
                 <span>
-                <a href="#" class="fa fa-youtube"></a>
+                <a href="https://www.youtube.com/c/riveria" class="fa fa-youtube"></a>
                 </span>
 
             </div>
