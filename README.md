@@ -1,7 +1,7 @@
 CSS experiments for a simple site.
 
 <strong>npx create-react-app appname</strong> 
-and for the navigationbar I installed react router <strong>https://github.com/remix-run/react-router</strong>
+and for the navigation I used react router <strong>https://github.com/remix-run/react-router</strong>
 
 Or
 
