@@ -8,14 +8,14 @@ export default function Yhteys() {
    <main class="boxtxt">
   
    <div class="txtbackround">
-   <p class="infotxt2">Connect from here. and here and here and here</p>
-
-   
-   <p class="infotxt2">Connect from herasdasdasasde.
+   <p class="infotxt2"><br></br>Address:<br></br> Peltolankatu 4, 80220 Joensuu <br></br>
    <br></br>
-   1234567890 <br></br>
-   address 123 <br></br>
-   321 007007</p>
+   Postadress:<br></br> PL 70, 80101 Joensuu</p>
+   
+   <p class="infotxt2">
+   <a href="tel:+013244200">013 244 200</a> <br></br><br></br>
+   <a href = "mailto: kirjaamo@riveria.fi">kirjaamo@riveria.fi</a><br></br><br></br>
+   </p>
 
     </div>
    </main>
