@@ -1,9 +1,9 @@
-CSS experiments for a simple site.
+CSS experiments in a singlepage website made with React.
 
-<strong>npx create-react-app appname</strong> 
-and for the navigation I used react router <strong>https://github.com/remix-run/react-router</strong>
+I used <strong>npx create-react-app</strong> 
+and for the navigationbar, react router module <strong>https://github.com/remix-run/react-router</strong>
 
-Or you can extract the file named <strong>allthefiles.7z</strong> 
+Or you can use the .zipfile named <strong>allthefiles.7z</strong> 
 
 It includes all the files and required modules, extract it and <strong>npm start</strong> should work.
 
